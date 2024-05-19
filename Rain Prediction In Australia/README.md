@@ -6,7 +6,7 @@ This project utilizes VScode and Australian rainfall data to practice various cl
 
 ## Project Description
 
-In this project, you will explore and analyze Australian rainfall data to predict whether it will rain the next day. You will apply a variety of classification algorithms to build predictive models and evaluate their performance.
+In this project, I have explored and analyzed Australian rainfall data to predict whether it will rain the next day. I have appled a variety of classification algorithms to build predictive models and evaluate their performance.
 
 ## Key Tasks
 
@@ -29,4 +29,4 @@ In this project, you will explore and analyze Australian rainfall data to predic
 
 ## Conclusion
 
-This project provides hands-on experience in applying classification algorithms to real-world data for rain prediction in Australia. By completing this project, you will enhance your skills in data preprocessing, feature selection, model building, and evaluation, preparing you for future data science projects and challenges.
+This project provides hands-on experience in applying classification algorithms to real-world data for rain prediction in Australia. 
