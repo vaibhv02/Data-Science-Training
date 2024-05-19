@@ -1,4 +1,3 @@
-```markdown
 # Automobile Sales Analysis Dashboard
 
 ## Overview
@@ -34,4 +33,3 @@ To develop a dashboard representing two main reports:
 ---
 
 This dashboard provides a comprehensive analysis of automobile sales trends, allowing stakeholders to make informed decisions based on historical data and insights gained from the visualization.
-```
